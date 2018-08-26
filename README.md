@@ -1,4 +1,4 @@
-#FeedReader
+# FeedReader
 This project is a web-based application that reads RSS feeds. Udacity provided the application and the first test suite and I implemented the rest suites which are described thoroughly below.
 
 ## Installing
