@@ -5,7 +5,7 @@ This project is a web-based application that reads RSS feeds. Udacity provided t
 - Clone the repository or download the zip folder of the project 
 - Open the file ```index.html``` in your browser (Chrome is recommended)
 
-###Instructions about the code implemetation 
+### Instructions about the code implemetation 
 - the app is based on the Google Feed Reader API, for more details you can check this source: https://developers.google.com/feed/v1/devguide
 
 -  **Suite #1: RSS Feeds**
